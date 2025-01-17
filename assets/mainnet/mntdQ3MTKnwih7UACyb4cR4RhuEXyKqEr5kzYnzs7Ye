@@ -1,9 +1,20 @@
 {
-    "chainId": 101,
-    "address": "mntdQ3MTKnwih7UACyb4cR4RhuEXyKqEr5kzYnzs7Ye",
-    "symbol": "MEST",
     "name": "Middle East Coin",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/AhmadAlwaisi/token-list/main/assets/mainnet/mntdQ3MTKnwih7UACyb4cR4RhuEXyKqEr5kzYnzs7Ye/logo.png",
-    "tags": ["utility", "MEST"]
+    "symbol": "MEST",
+    "description": "A unified digital currency for the Middle East (MEST) aimed at facilitating financial transfers, reducing costs, and boosting regional trade through reliable blockchain technology. The project offers an investment opportunity for modern economic integration.",
+    "image": "https://i.imgur.com/OMttUd9.png",
+    "external_url": "https://middle-east-coin.com",
+    "social_media": {
+        "twitter": "https://x.com/MiddleEastCoins",
+        "discord": "https://discord.gg/BUdhwTA8",
+        "telegram": "https://t.me/MiddleEastCoins"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://i.imgur.com/OMttUd9.png",
+                "type": "image/png"
+            }
+        ]
+    }
 }
